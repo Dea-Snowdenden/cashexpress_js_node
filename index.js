@@ -8,7 +8,7 @@ app.use(cookieParser())
 redirect(app);
 
 var users = [
-	{'id': 1, 'email' : 'jeff@gmail.com', 'pass' : '123456', 'money' : 5000},
+	{'id': 1, 'email' : 'deatotzky@gmail.com', 'pass' : '123456', 'money' : 5000},
 	{'id': 2, 'email' : 'test@gmail.com', 'pass' : 'qwerty', 'money' : 400},
 	];
 
